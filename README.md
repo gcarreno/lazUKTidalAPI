@@ -2,11 +2,11 @@
 
 Tidal information for the United Kindom from the [Admiralty](https://www.admiralty.co.uk/) of the [UK Hydrographic Office](http://www.gov.uk/UKHO).
 
-Developer site: [https://admiraltyapi.portal.azure-api.net/](https://admiraltyapi.portal.azure-api.net/).
+Developer site: [https://admiraltyapi.portal.azure-api.net](https://admiraltyapi.portal.azure-api.net/).
 
 ## API
 
-[OpenAPI Definition](#open-api-definition)
+See the [OpenAPI Definition](#open-api-definition) at the end of this file.
 
 ### Station
 
