@@ -6,9 +6,13 @@ Developer site: [https://admiraltyapi.portal.azure-api.net/](https://admiraltyap
 
 ## API
 
- - Station
- - Stations
- - TidalEvents
+[OpenAPI Definition](#open-api-definition)
+
+### Station
+
+### Stations
+
+### TidalEvents
 
 ## Open API definition
 
