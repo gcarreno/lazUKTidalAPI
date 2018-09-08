@@ -1,5 +1,6 @@
 # lazUKTidalAPI project specific
 /bin
+/Research
 
 # Compiled l10n files: .mo should be ignored
 *.mo
